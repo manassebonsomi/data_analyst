@@ -46,7 +46,6 @@ Il a pour objectif de développer des compétences en **data analysis**, depuis 
 Le repository peut contenir :
 
 - Notebooks Jupyter (.ipynb)
-- Scripts Python (.py)
 - Fichiers CSV / datasets
 - Visualisations (charts, graphs)
 - Résultats d’analyse
